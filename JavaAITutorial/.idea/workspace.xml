@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c1cc20d-6f35-4bfa-b5a3-a3186ffa3fa1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaai/ann/output/PrabuddhaEquilateralDecoding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaai/aann/ML1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaai/aann/ML1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gJkiA4Y851ntIsypMm8LgSBqeB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="javaai.ann.basic" />
+      <recent name="javaai.ann.output" />
+      <recent name="javaai.aann" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PrabuddhazIris">
+    <configuration name="ML1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaai.aann.ML1" />
+      <module name="JavaAITutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaai.aann.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ML2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaai.aann.ML2" />
+      <module name="JavaAITutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaai.aann.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NormalizedIris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaai.ann.input.NormalizedIris" />
+      <module name="JavaAITutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaai.ann.input.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrabuddhazIris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaai.ann.basic.PrabuddhazIris" />
+      <module name="JavaAITutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaai.ann.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XorHelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaai.ann.basic.XorHelloWorld" />
+      <module name="JavaAITutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaai.ann.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrabuddhazIris" />
+        <item itemvalue="Application.XorHelloWorld" />
+        <item itemvalue="Application.ML1" />
+        <item itemvalue="Application.ML2" />
+        <item itemvalue="Application.NormalizedIris" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c1cc20d-6f35-4bfa-b5a3-a3186ffa3fa1" name="Default Changelist" comment="" />
+      <created>1597840210261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597840210261</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom" timestamp="1603115902232">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603115902232" />
+    <state width="1398" height="197" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1598906960479" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1600533507591" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1600534400301" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1600533986179" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1603079555676" />
+    <state width="1358" height="197" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1598191769603" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center" timestamp="1603115902230">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603115902230" />
+    <state width="1398" height="197" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1598906960477" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1600533507590" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1600534400299" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1600533986178" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1603079555674" />
+    <state width="1358" height="197" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1598191769602" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left" timestamp="1603115902229">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603115902229" />
+    <state width="1398" height="197" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1598906960476" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1600533507589" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1600534400298" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1600533986177" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1603079555673" />
+    <state width="1358" height="197" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1598191769591" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right" timestamp="1603115902231">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603115902231" />
+    <state width="1398" height="197" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1598906960478" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1600533507590" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1600534400299" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1600533986178" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1603079555675" />
+    <state width="1358" height="197" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1598191769602" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1602471675677">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602471675677" />
+    <state width="1358" height="245" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1598230894881" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1602471675676">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1602471675676" />
+    <state width="1358" height="245" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1598230894880" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1602471675675">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1602471675675" />
+    <state width="1358" height="245" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1598230894880" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1602471675676">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1602471675676" />
+    <state width="1358" height="245" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1598230894880" />
+    <state x="308" y="200" key="IDE.errors.dialog" timestamp="1601134232227">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="200" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1601134232227" />
+    <state x="215" y="193" width="1010" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603078907512">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="215" y="193" width="1010" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1603078907512" />
+    <state x="405" y="161" width="670" height="740" key="search.everywhere.popup" timestamp="1602638151933">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="405" y="161" width="670" height="740" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1602638151933" />
+    <state x="405" y="170" width="670" height="676" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1597842216725" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaAITutorial$PrabuddhaEquilateralDecoding.ic" NAME="PrabuddhaEquilateralDecoding Coverage Results" MODIFIED="1601495941430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>javaai.ann.output.*</FILTER>
+    </SUITE>
+  </component>
+</project>
